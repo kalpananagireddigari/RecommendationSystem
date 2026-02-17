@@ -121,6 +121,8 @@ The recommendation engine improves user experience by suggesting unseen but rele
 
 **OUTPUT**
 
+<img width="1920" height="1007" alt="Image" src="https://github.com/user-attachments/assets/0211d40e-8213-4ea2-a3c0-b5b2c8b3fc47" />
+
 
 
 
